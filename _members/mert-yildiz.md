@@ -2,7 +2,7 @@
 name: Mert Yıldız
 image: images/member.jpg
 description: M.Sc
-role: Programmer
+role: programmer
 aliases:
 links:
   orcid:
