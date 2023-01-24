@@ -2,24 +2,24 @@
 title: Home
 ---
 
-# Bioinformatics Simplified
+# Laboratory of Bioinformatics and Molecular Genetics
 
-BMG-Lab is a lab.
+Bioinformatics enthusiats are welcome!
 
 {%
   include link.html
   type="github"
   icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
+  text="BMG Lab on Github"
+  link="BMGLab"
   style="button"
 %}
 {%
   include link.html
   type="docs"
   icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
+  text="See us at our University"
+  link="https://biyomuhendislik.ege.edu.tr/"
   style="button"
 %}
 {:.center}
@@ -33,7 +33,7 @@ BMG-Lab is a lab.
 # Highlights
 
 {% capture text %}
-We work with bla bla bla
+We work with all types of biological data. We aim to develop, test and share new bioinformatics algorithms. 
 {%
   include link.html
   link="research"
@@ -53,8 +53,7 @@ We work with bla bla bla
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our Tools etc. etc. etc.
 
 {%
   include link.html
@@ -76,7 +75,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Meet our team!
 
 {%
   include link.html
@@ -95,6 +94,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
